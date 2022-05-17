@@ -1,0 +1,4 @@
+account 	password
+aws		Shetty@123
+git hub		Poothani@8397
+Docker hub 	Poothani@8397
